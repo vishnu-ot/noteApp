@@ -1,0 +1,7 @@
+@media (max-width: 480px) {
+  .add-task {
+   position: absolute;
+   top: 0;
+   left:160px;
+  }
+}
